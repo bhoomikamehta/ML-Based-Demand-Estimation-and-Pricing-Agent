@@ -8,4 +8,4 @@ implementing a tit-for-tat cooperation mechanism to avoid price-undercutting cyc
 ## Tech Stack
 Python, Scikit-learn, XGBoost, NumPy
 
-Final Report Link:
+Final Report [Link](https://github.com/bhoomikamehta/ML-Based-Demand-Estimation-and-Pricing-Agent/blob/main/Final%20Report.pdf) 

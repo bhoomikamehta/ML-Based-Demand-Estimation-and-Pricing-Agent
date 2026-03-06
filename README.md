@@ -119,4 +119,4 @@ price = agent.action(obs)
 
 ## Final Report
 
-📄 **[Full Project Report](#)** _(link coming soon)_
+📄 **[Full Project Report](https://github.com/bhoomikamehta/ML-Based-Demand-Estimation-and-Pricing-Agent/blob/main/Final%20Report.pdf)**
